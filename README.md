@@ -1,2 +1,1 @@
-# 💫 About Me:
-Hi 👋, I'm a Computer Science student passionate about coding and artificial intelligence.<br><br>- 💻 Learning and building projects in Programming, Web Development, and AI  <br>- 🌱 Currently improving my skills in Data Structures, Machine Learning, and Git  <br>- 🚀 Interested in open-source contributions and real-world problem solving  <br>- 📫 Always curious to learn new technologies and improve myself  <br><br>“Code. Learn. Improve. Repeat.”<br><br>
+
